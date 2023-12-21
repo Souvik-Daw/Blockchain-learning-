@@ -1,0 +1,6 @@
+faf79d37a4ae4d9591d0393c72c6be70
+https://goerli.infura.io/v3/faf79d37a4ae4d9591d0393c72c6be70
+https://sepolia.infura.io/v3/faf79d37a4ae4d9591d0393c72c6be70
+
+Attempting to deploy from account 0x40D57aC70Db9563aF7aA6C98ED2520d2ED642EF8
+Contract deployed to 0x2Cf5293d69d4ddeD3FFf609C857FA259262B4E94
