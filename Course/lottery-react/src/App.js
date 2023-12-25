@@ -10,6 +10,8 @@ class App extends React.Component {
     value: "",
     message: "",
   };
+
+  
   async componentDidMount() {
     const manager = await lottery.methods.manager().call();
     const players = await lottery.methods.getPlayers().call();
